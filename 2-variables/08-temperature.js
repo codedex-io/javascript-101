@@ -1,7 +1,7 @@
-# Temperature 🌡
-# Codédex
+// Temperature 🌡
+// Codédex
 
-temp_f = 56
-temp_c = (temp_f - 32) / 1.8
+let temp_f = 56
+let temp_c = (temp_f - 32) / 1.8
 
-print(temp_c)
+console.log(temp_c)
