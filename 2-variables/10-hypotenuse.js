@@ -1,8 +1,8 @@
-# Pythagorean Theroem 📐
-# Codédex
+// Pythagorean Theroem 📐
+// Codédex
 
-a = int(input("Enter a: "))
-b = int(input("Enter b: "))
+let a = int(input("Enter a: "))
+let b = int(input("Enter b: "))
 
 c = (a*a + b*b)**0.5
 
