@@ -1,9 +1,9 @@
-# BMI 🏋️‍♀️
-# Codédex
+// BMI 🏋️‍♀️
+// Codédex
 
-weight = 92.3
-height = 1.86
+let weight = 92.3
+let height = 1.86
 
-bmi = weight / (height**2)
+let bmi = weight / (height**2)
 
-print(bmi)
+console.log(bmi)
