@@ -1,11 +1,10 @@
 // Data Types 📦
 // Codédex
 
-const userId = 16180339887
-let userName = "Sonny Li"
-let progress = 0.75
-let xp = 60
-let verified = True
+const company = "Niteowl, Inc."
+const foundingYear = 2022
+let fundingRound = null
+let fundingAmount = undefined
 
 console.log(userId)
 console.log(userName)
