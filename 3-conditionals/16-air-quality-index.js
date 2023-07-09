@@ -3,18 +3,16 @@
 
 const api = 45;
 
-if (aqi >= 0 && aqi <= 33) {
-  console.log("Very Good");
-} else if (aqi >= 34 && aqi <= 66) {
+if (aqi >= 0 && aqi <= 50) {
   console.log("Good");
-} else if (aqi >= 67 && aqi <= 99) {
-  console.log("Fair");
-} else if (aqi >= 100 && aqi <= 149) {
-  console.log("Poor");
-} else if (aqi >= 150 && aqi <= 200) {
-  console.log("Very Poor");
-} else if (aqi > 200) {
-  console.log("Hazardous");
+} else if (aqi >= 51 && aqi <= 100) {
+  console.log("Moderate");
+} else if (aqi >= 101 && aqi <= 150) {
+  console.log("Unhealthy (Sensitive Groups)");
+} else if (aqi >= 151 && aqi <= 200) {
+  console.log("Unhealthy");
+} else if (aqi >= 201 && aqi <= 300) {
+  console.log("Very Unhealthy");
 } else {
-  console.log("Invalid reading");
+  console.log("Hazardous");
 }
