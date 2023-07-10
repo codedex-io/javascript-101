@@ -8,7 +8,7 @@
 const player = 3;
 computer = Math.floor(Math.random() * 3)
 
-if(player == 0) {
+if (player == 0) {
   if (computer == 0) {
     console.log("Draw");
   } else if (computer == 1) {
