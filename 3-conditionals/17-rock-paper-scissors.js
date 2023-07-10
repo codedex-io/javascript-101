@@ -1,9 +1,9 @@
 // Rock Paper Scissors 🫲
 // Codédex
 
-// 0 = Rock
-// 1 = Paper
-// 2 = Scissors
+// 0 = Rock ✊
+// 1 = Paper ✋
+// 2 = Scissors ✌️
 
 const player = 3;
 computer = Math.floor(Math.random() * 3)
