@@ -1,4 +1,4 @@
-// Must Not Tell Lies 🪶
+// Not Tell Lies 🪶
 // Codédex
 
 for (let i = 0; i < 100; i++) {
