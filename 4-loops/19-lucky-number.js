@@ -1,7 +1,7 @@
 // Lucky Number 🍀
 // Codédex
 
-const luckyNumber = Math.floor(Math.random() * 10) + 1;
+const luckyNumber = 7
 let guess = Math.floor(Math.random() * 10) + 1;
 
 while (guess != luckyNumber) {
