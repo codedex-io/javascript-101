@@ -1,4 +1,4 @@
-// Duck Duck Goose 🪿
+// Duck Duck Goose 🦆
 // Codédex
 
 let randomNumber = Math.floor(Math.random() * 10);
@@ -8,4 +8,4 @@ while (randomNumber != 7) {
   randomNumber = Math.floor(Math.random() * 10);
 }
 
-console.log("Goose! 🪿");
+console.log("Goose! 🦢");
