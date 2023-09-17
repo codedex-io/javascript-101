@@ -2,7 +2,7 @@
 // Codédex
 
 const myNYCDestinations = [
-  "🗽 Manhattan - Times Square",
+  "🗽 Manhattan - Washington Square Park",
   "🏟️ The Bronx - Yankee Stadium",
   "🎡 Brooklyn - Coney Island",
   "✈️ Queens - Astoria Park",
