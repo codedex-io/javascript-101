@@ -5,7 +5,7 @@
 
 const pizzaTopping = "Cheese 🧀";
 const pizzaType = "Pan";
-const pizzaSlices = 12;
+const pizzaSlices = 8;
 const pizzaPrice = 12.99;
 
 // Pizza 2 
