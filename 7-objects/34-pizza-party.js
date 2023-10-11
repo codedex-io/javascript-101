@@ -1,14 +1,18 @@
 // Pizza Party 🍕
 // Codédex
 
-const pizzaType = "Hand-tossed";
+// Pizza 1
+
+const pizzaTopping = "Cheese 🧀";
+const pizzaType = "Pan";
 const pizzaSlices = 12;
-const pizzaTopping = "Pepperoni";
-const pizzaPrice = 14.99;
+const pizzaPrice = 12.99;
+
+// Pizza 2 
 
 const pizza = {
+  topping: "Pepperoni 🍕",
   type: "Hand-tossed",
-  topping: "Pepperoni",
   slices: 12,
   price: 14.99
 }
