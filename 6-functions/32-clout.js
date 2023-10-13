@@ -1,6 +1,6 @@
 // YouTube Stats ▶️
 // Codédex
-
+'use strict'
 const weeklyYouTubeStats = [2.3, 4.8, 6.7, 7.0, 1.9, 8.4, 5.2];
 
 function mean() {

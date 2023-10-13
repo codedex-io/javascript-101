@@ -1,6 +1,6 @@
 // 🪙 Coin Flip
 // Codédex
-
+'use strict'
 let num = Math.random();
 
 if (num > 0.5) {

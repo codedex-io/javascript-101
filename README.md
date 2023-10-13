@@ -7,6 +7,16 @@
 
 Welcome to The Origins III: JavaScript GitHub repo! We are super excited to have you. Here, you will find all the solutions to the Codédex challenges. Feel free to make pull requests to add your own twists on the challenges!
 
+
+## Installation 
+```
+npm i readline
+```
+or 
+```
+npm install readline
+```
+
 ### Website: www.codedex.io/javascript
 
 ## The Console
