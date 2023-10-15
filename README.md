@@ -9,6 +9,17 @@ Welcome to The Origins III: JavaScript GitHub repo! We are super excited to have
 
 ### Website: www.codedex.io/javascript
 
+## Installation
+```
+npm install readline
+```
+
+or
+
+
+```
+npm i readline
+```
 ## The Console
 
 - [`setting-up.js`](https://github.com/codedex-io/javascript-101/blob/main/1-the-console/01-setting-up.js)
