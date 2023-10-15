@@ -1,7 +1,7 @@
 // Let & Const 📦
 // Codédex
 
-const userId = 16180339887
+const userId = 1618033988
 let userName = "Sonny Li"
 let progress = 0.75
 let xp = 60
