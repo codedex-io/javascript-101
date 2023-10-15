@@ -6,8 +6,7 @@ const foundingYear = 2022
 let fundingRound = null
 let fundingAmount = undefined
 
-console.log(userId)
-console.log(userName)
-console.log(progress)
-console.log(xp)
-console.log(verified)
+console.log(typeof company)
+console.log(typeof foundingYear)
+console.log(typeof fundingAmount)
+console.log(typeof fundingRound)
