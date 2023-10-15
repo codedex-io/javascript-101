@@ -1,5 +1,6 @@
 // Music Playlist 🎵
 // Codédex
+'use strict'
 
 const musicPlaylist = [
   "Tom Sawyer",

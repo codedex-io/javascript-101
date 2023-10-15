@@ -1,5 +1,6 @@
 // Animal Farm 🐑
 // Codédex
+'use strict'
 
 const pig = {
   name: "Napoleon",

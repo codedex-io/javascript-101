@@ -1,5 +1,6 @@
 // Lucky Number 🍀
 // Codédex
+'use strict'
 
 const luckyNumber = 7
 let guess = Math.floor(Math.random() * 10) + 1;

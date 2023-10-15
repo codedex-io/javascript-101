@@ -1,5 +1,6 @@
 // Rock Paper Scissors 🫲
 // Codédex
+'use strict'
 
 // 0 = Rock
 // 1 = Paper

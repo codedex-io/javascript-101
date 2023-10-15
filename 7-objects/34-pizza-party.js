@@ -1,5 +1,6 @@
 // Pizza Party 🍕
 // Codédex
+'use strict'
 
 // Pizza 1
 

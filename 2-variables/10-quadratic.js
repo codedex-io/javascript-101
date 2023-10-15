@@ -1,5 +1,6 @@
 # Quadratic Formula 🧮
 # Codédex
+'use strict'
 
 a = int(input("Enter a: "))
 b = int(input("Enter b: "))

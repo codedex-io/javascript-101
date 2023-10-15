@@ -1,5 +1,6 @@
 // Air Quality Index 💨
 // Codédex
+'use strict'
 
 const api = 45;
 
