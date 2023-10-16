@@ -1,5 +1,6 @@
 // BMI 🏋️‍♀️
 // Codédex
+'use strict'
 
 let weight = 92.3
 let height = 1.86

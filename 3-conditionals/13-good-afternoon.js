@@ -1,5 +1,6 @@
 // Good Afternoon ☁️
 // Codédex
+'use strict'
 
 let hour = 4;
 

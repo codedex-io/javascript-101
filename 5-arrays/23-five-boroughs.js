@@ -1,5 +1,6 @@
 // Five Boroughs 🗽
 // Codédex
+'use strict'
 
 const myNYCDestinations = [
   "🗽 Manhattan - Washington Square Park",

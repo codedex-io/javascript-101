@@ -1,5 +1,6 @@
 // Palindrome ↔️
 // Codédex
+'use strict'
 
 function isPalindrome(word) {
   let reversedWord = "";

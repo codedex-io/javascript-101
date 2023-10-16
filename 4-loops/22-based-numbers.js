@@ -1,5 +1,6 @@
 // Based Numbers ⫴
 // Codédex
+'use strict'
 
 const myNumber = 30;
 let binary = "";

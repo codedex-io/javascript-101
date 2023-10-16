@@ -1,5 +1,6 @@
 // 🪙 Coin Flip
 // Codédex
+'use strict'
 
 let num = Math.random();
 
