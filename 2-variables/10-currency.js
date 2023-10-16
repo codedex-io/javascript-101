@@ -1,5 +1,6 @@
 // Currency 💵
 // Codédex
+'use strict'
 
 let yuan = 1895.66
 let yen = 872.10

@@ -1,5 +1,6 @@
 // Grocery Trip 🛒
 // Codédex
+'use strict'
 
 let groceryList = ["🥛 Milk", "🥑 Avocado", "🥚 Eggs ", "🍞 Bread"];
 

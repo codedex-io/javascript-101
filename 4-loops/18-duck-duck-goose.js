@@ -1,5 +1,6 @@
 // Duck Duck Goose 🦆
 // Codédex
+'use strict'
 
 let randomNumber = Math.floor(Math.random() * 10);
 

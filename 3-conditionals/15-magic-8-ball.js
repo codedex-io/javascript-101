@@ -1,5 +1,6 @@
 // Magic 8 Ball 🎱
 // Codédex
+'use strict'
 
 const question = "Put question string here"
 

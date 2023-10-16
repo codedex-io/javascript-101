@@ -1,5 +1,6 @@
 // Pokémon 📟
 // Codédex
+'use strict'
 
 pokemon = {
   name: "Pikachu",
