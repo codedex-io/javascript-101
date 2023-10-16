@@ -1,5 +1,6 @@
 // Even The Odds 2️⃣
 // Codédex
+'use strict'
 
 for (let i = 1; i <= 50; i++) {
   if (i % 2 == 1) {

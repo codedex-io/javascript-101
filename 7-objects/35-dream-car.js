@@ -1,5 +1,6 @@
 // Dream Car 🚗
 // Codédex
+'use strict'
 
 const car = {
   model: "Tesla",

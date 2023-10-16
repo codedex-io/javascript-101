@@ -1,5 +1,6 @@
 // E = mc² 🌌
 // Codédex
+'use strict'
 
 function relativityTheory(mass) {
   const speedOfLight = 3e8;

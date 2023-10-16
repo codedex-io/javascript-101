@@ -1,6 +1,6 @@
 // Data Types 📦
 // Codédex
-
+'use strict'
 const company = "Niteowl, Inc."
 const foundingYear = 2022
 let fundingRound = null

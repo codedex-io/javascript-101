@@ -1,5 +1,6 @@
 // pH Levels 🧪
 // Codédex
+'use strict'
 
 const ph = 4
 

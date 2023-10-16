@@ -1,5 +1,6 @@
 // DNA 🧬
 // Codédex
+'use strict'
 
 const dnaPieces = ["A", "C", "G", "T"];
 

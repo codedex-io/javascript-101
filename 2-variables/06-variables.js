@@ -1,5 +1,6 @@
 // Let & Const 📦
 // Codédex
+'use strict'
 
 const userId = 1618033988
 let userName = "Sonny Li"
