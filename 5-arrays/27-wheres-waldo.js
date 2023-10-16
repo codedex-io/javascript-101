@@ -1,5 +1,6 @@
 // Where's Waldo 🔍
 // Codédex
+'use strict'
 
 const characters = ["The Wally Watchers", "Wilma", "Fritz", "Wizard Whitebeard", "Odlaw", "Waldo", "Woof"];
 

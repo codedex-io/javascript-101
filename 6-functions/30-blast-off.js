@@ -1,5 +1,6 @@
 // Blast Off 🚀
 // Codédex
+'use strict'
 
 function countdown() {
   for (let i = 10; i > 0; i--) {

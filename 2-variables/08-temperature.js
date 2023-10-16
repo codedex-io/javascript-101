@@ -1,5 +1,6 @@
 // Temperature 🌡
 // Codédex
+'use strict'
 
 let temp_f = 56
 let temp_c = (temp_f - 32) / 1.8

@@ -1,5 +1,6 @@
 // Round Trip ✈️
 // Codédex
+'use strict'
 
 const departTripTicket = {
   name: "Brandon",
