@@ -1,7 +1,7 @@
 // Air Quality Index 💨
 // Codédex
 
-const api = 45;
+const aqi = 45;
 
 if (aqi >= 0 && aqi <= 50) {
   console.log("Good");
