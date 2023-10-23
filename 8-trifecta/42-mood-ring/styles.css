@@ -1,0 +1,27 @@
+/* Mood Ring 💍 */
+/* Codédex */
+
+body {
+  text-align: center;
+}
+
+.mood-ring {
+  width: 150px;
+  height: 150px;
+  margin: 20px auto;
+  border: 15px solid #ccc;
+  border-radius: 50%;
+  position: relative;
+}
+
+.stone {
+  width: 125px;
+  height: 125px;
+  background-color: #3498db; /* Default color */
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: background-color 0.5s ease-in-out;
+}
