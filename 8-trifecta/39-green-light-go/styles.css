@@ -2,14 +2,14 @@
 /* Codédex */
 
 #traffic-light-div {
-  border: 7px solid;
+  border: 7px solid black;
   width: 150px;
   height: 400px;
   background-color: grey;
 }
 
 .light {
-  border: 3px solid;
+  border: 3px solid black;
   width: 100px;
   height: 100px;
   margin: 20px auto;
