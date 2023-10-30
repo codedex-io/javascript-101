@@ -3,7 +3,7 @@
 
 const dnaPieces = ["A", "C", "G", "T"];
 
-const myDNA = []
+const myDNA = [];
 
 for (let i = 0; i < 24; i++) {
     const pieceOne = Math.floor(Math.random() * dnaPieces.length);
