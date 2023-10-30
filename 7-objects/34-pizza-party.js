@@ -15,6 +15,6 @@ const pizza = {
   type: "Hand-tossed",
   slices: 12,
   price: 14.99
-}
+};
 
 console.log(pizza);
