@@ -6,7 +6,7 @@ function relativityTheory(mass) {
 
   const energy = mass * speedOfLight ** 2;
 
-  return energy
+  return energy;
 }
 
 relativityTheory(123.4);
