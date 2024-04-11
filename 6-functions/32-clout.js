@@ -1,24 +1,38 @@
-// YouTube Stats ▶️
+// Clout 😎
 // Codédex
 
-const weeklyYouTubeStats = [2.3, 4.8, 6.7, 7.0, 1.9, 8.4, 5.2];
+const recentTikTokViews = [1932, 2300, 453, 5222, 6733, 7402, 8334];
+const recentInstagramViews = [936, 2300, 453, 5222, 6733, 7402, 8334];
+const recentYouTubeViews = [989, 2300, 453, 5222, 6733, 7402, 8334];
 
-function mean() {
+function mean(viewsArray) {
   let totalViews = 0;
-  
-  for (let i = 0; i < weeklyYouTubeStats.length; i++) {
-    totalViews += weeklyYouTubeStats[i];
+
+  for(let i = 0; i < viewsArray.length; i++) {
+    totalViews += viewsArray[i];
   }
-  
-  return totalViews / weeklyYouTubeStats.length;
+
+  return totalViews / viewsArray.length;
 }
 
-function median() {
-  const sortedStats = weeklyYouTubeStats.sort();
-  const middleIndex = Math.floor(weeklyYouTubeStats.length / 2);
+function median(viewsArray) {
+  const sortedStats = viewsArray.sort();
+  const middleIndex = Math.floor(viewsArray.length / 2);
   
   return sortedStats[middleIndex];
 }
 
-console.log(mean());
-console.log(median());
+// TikTok
+console.log("TikTok");
+console.log("Mean:", mean(recentTikTokViews));
+console.log("Median:", median(recentTikTokViews));
+
+// Instagram
+console.log("Instagram");
+console.log("Mean:", mean(recentInstagramViews));
+console.log("Median:", median(recentInstagramViews));
+
+// YouTube
+console.log("YouTube");
+console.log("Mean:", mean(recentYouTubeViews));
+console.log("Median:", median(recentYouTubeViews));
