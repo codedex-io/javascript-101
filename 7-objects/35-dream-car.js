@@ -5,11 +5,11 @@ const car = {
   model: "Tesla",
   year: 2023,
   color: "red",
-  new: true
+  used: true
 }
 
-if (car.new) {
-  console.log("I want a " + car.year + " " + car.model + " that is new.")
-} else {
+if (car.used) {
   console.log("I want a " + car.year + " " + car.model + " that is used.")
+} else {
+  console.log("I want a " + car.year + " " + car.model + " that is new.")
 }
