@@ -27,3 +27,12 @@ Welcome to The Origins III: JavaScript GitHub repo! We are super excited to have
 - [`hypotenuse.js`](https://github.com/codedex-io/javascript-101/blob/main/2-variables/10-hypotenuse.js) (regular solution for exercise 10)
 - [`quadratic.js`](https://github.com/codedex-io/javascript-101/blob/main/2-variables/10-quadratic.js) (bonus for exercise 10)
 
+## Conditionals
+
+- ['coin-flip.js'](./3-conditionals/11-coin-flip.js)
+- ['good-morning.js'](./3-conditionals/12-good-morning.js)
+- ['good-afternoon.js'](./3-conditionals/13-good-afternoon.js)
+- ['ph.levels.js](./3-conditionals/14-ph-levels.js)
+- ['magic-8-ball.js'](./3-conditionals/15-magic-8-ball.js)
+- ['air-quality-index.js'](./3-conditionals/16-air-quality-index.js)
+- ['rock-paper-scissors.js'](./3-conditionals/17-rock-paper-scissors.js)
