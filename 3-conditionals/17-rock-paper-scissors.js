@@ -6,7 +6,7 @@
 // 2 = Scissors
 
 const player = 3;
-computer = Math.floor(Math.random() * 3)
+const computer = Math.floor(Math.random() * 3);
 
 if (player === 0) {
   if (computer == 0) {
