@@ -5,7 +5,7 @@
 // 1 = Paper
 // 2 = Scissors
 
-const player = 3;
+const player = 2;
 const computer = Math.floor(Math.random() * 3);
 
 if (player === 0) {
