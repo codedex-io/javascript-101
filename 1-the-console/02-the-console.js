@@ -1,4 +1,4 @@
 // The Console 💻
 // Codédex
 
-console.log("Hello internet!");
+console.log("My favorite food is lamb over rice!");
