@@ -1,4 +1,4 @@
 // Setting Up 🔧
 // Codédex
 
-console.log("Hi");
+console.log("Hello internet!");
