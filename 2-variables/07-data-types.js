@@ -1,7 +1,7 @@
 // Data Types 📦
 // Codédex
 
-const company = "Niteowl, Inc.";
+const companyName = "Niteowl, Inc.";
 const foundingYear = 2022;
 let fundingAmount = undefined;
 
