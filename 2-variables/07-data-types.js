@@ -8,4 +8,5 @@ let fundingAmount = undefined;
 
 console.log(company);
 console.log(foundingYear);
+console.log(isActive);
 console.log(fundingAmount);
