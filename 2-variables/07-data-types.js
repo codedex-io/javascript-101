@@ -3,6 +3,7 @@
 
 const companyName = "Niteowl, Inc.";
 const foundingYear = 2022;
+let isActive = true;
 let fundingAmount = undefined;
 
 console.log(company);
