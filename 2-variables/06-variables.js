@@ -7,13 +7,14 @@ const favoriteColor = "Purple 💜";
 let currentLocation = "School 🎒";
 let mood = "Chill";
 
-console.log("My Profile:")
+console.log("My Profile: ");
 console.log(firstName);
 console.log(favoriteColor);
 console.log(currentLocation);
 console.log(mood);
 
-console.log("")
+console.log(""); // Empty line
 console.log("Updated location:")
-currentLocation = "Home 🏠";
+
+currentLocation = "Home 🏠"; // Reassign a new value
 console.log(currentLocation);
