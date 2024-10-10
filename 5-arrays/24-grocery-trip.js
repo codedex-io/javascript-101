@@ -1,7 +1,7 @@
 // Grocery Trip 🛒
 // Codédex
 
-let groceryList = ["🥛 Milk", "🥑 Avocado", "🥚 Eggs ", "🍞 Bread"];
+let groceryList = ["🥛 Milk", "🥑 Avocado", "🥚 Eggs", "🍞 Bread"];
 
 groceryList[2] = "🧈 Butter";
 
