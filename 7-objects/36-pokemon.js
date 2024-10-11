@@ -1,7 +1,7 @@
 // Pokémon 📟
 // Codédex
 
-pokemon = {
+const pokemon = {
   name: "Pikachu",
   type: "Electric",
   level: 25,
