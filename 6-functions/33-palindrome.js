@@ -10,7 +10,7 @@ function isPalindrome(word) {
     reversedWord += lowerCaseWord[i];
   }
   
-  return reversedWord == lowerCaseWord;
+  return reversedWord === lowerCaseWord;
 }
 
 console.log(isPalindrome("Racecar"));
