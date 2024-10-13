@@ -25,4 +25,4 @@ generatorButton.addEventListener("click", function() {
 
   randomMeme.src = memeArray[randomMemeIndex];
   randomCaption.innerText = captionArray[randomCaptionIndex];
-})
+});
