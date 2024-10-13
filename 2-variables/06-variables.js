@@ -1,14 +1,17 @@
 // Let & Const 📦
 // Codédex
 
-const userId = 1618033988;
-let userName = "Sonny Li";
-let progress = 0.75;
-let xp = 60;
-let verified = true;
+const firstName = "Jane";
+const favoriteColor = "Purple 💜";
 
-console.log(userId);
-console.log(userName);
-console.log(progress);
-console.log(xp);
-console.log(verified);
+let currentLocation = "New York 🗽";
+let mood = "Chill";
+
+console.log("My Profile: ");
+console.log(firstName);
+console.log(favoriteColor);
+console.log(currentLocation);
+console.log(mood);
+
+currentLocation = "Chicago 🌬️";
+console.log(currentLocation);
