@@ -1,12 +1,13 @@
 // Lucky Number 🍀
 // Codédex
 
-const luckyNumber = 7
+const luckyNumber = 7;
+
 let guess = Math.floor(Math.random() * 10) + 1;
 
 while (guess != luckyNumber) {
-  console.log(`${guess} is not it.`)
+  console.log(`Nope, it isn't ${guess}`)
   guess = Math.floor(Math.random() * 10) + 1;
 }
 
-console.log(`You got it! The lucky number was ${luckyNumber}`);
+console.log(`My lucky number is ${luckyNumber}!`);
