@@ -31,7 +31,7 @@ console.log("8. Once cooled, mix the syrup with carbonated water in a ratio of a
 console.log("9. Serve chilled over ice for a refreshing Coca-Cola experience.");
 
 /*
-Secret Ingredient (DO NOT TELL ANYONE! 🤐)
+Secret Ingredient (DO NOT TELL ANYONE 🤐)
 A tiny dash of kola nut extract gives an authentic cola flavor, just like the original recipe.
 */
 
