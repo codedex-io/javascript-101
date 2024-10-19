@@ -28,7 +28,7 @@ console.log("5. Slowly add the oil mixture to the saucepan, stirring constantly 
 console.log("6. If using, add the caffeine and stir until fully dissolved.");
 console.log("7. Remove the mixture from heat and let it cool to room temperature.");
 console.log("8. Once cooled, mix the syrup with carbonated water in a ratio of about 1 part syrup to 5 parts carbonated water (adjust to taste).");
-console.log("9. Serve chilled over ice for a refreshing homemade Coca-Cola experience.");
+console.log("9. Serve chilled over ice for a refreshing Coca-Cola experience.");
 
 /*
 Secret Ingredient (DO NOT TELL ANYONE! 🤐)
