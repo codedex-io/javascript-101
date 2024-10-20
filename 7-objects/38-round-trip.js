@@ -13,7 +13,7 @@ const departTripTicket = {
       departTripTicket.businessClass = true;
     }
   }
-}
+};
 
 const returnTripTicket = {
   name: "Brandon",
@@ -27,7 +27,7 @@ const returnTripTicket = {
       returnTripTicket.businessClass = true;
     }
   }
-}
+};
 
 departTripTicket.upgrade();
 returnTripTicket.upgrade();
@@ -41,7 +41,7 @@ departTripTicket.flightTime = function() {
   if (flightTime < 0) {
     flightTime = flightTime * -1;
   }
-  console.log(flightTime + " hours")
+  console.log(flightTime + " hours");
 }
 
 returnTripTicket.leaveTime = 24;
@@ -51,7 +51,7 @@ returnTripTicket.flightTime = function() {
   if (flightTime < 0) {
     flightTime = flightTime * -1;
   }
-  console.log(flightTime + " hours")
+  console.log(flightTime + " hours");
 }
 
 departTripTicket.flightTime();
