@@ -9,4 +9,4 @@ function relativityTheory(mass) {
   return energy;
 }
 
-relativityTheory(123.4);
+console.log(relativityTheory(123.4));
