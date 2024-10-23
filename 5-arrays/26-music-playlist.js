@@ -16,14 +16,16 @@ const musicPlaylist = [
 
 // Remove first element
 musicPlaylist.shift();
+console.log(musicPlaylist);
 
 // Remove last element
 musicPlaylist.pop();
+console.log(musicPlaylist);
 
 // Add to end of array
 musicPlaylist.push("Blue (Da Ba Dee)");
+console.log(musicPlaylist);
 
 // Add to start of array
 musicPlaylist.unshift("Gangnam Style", "Harlem Shake");
-
 console.log(musicPlaylist);
