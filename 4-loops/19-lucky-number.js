@@ -6,7 +6,7 @@ const luckyNumber = 7;
 let guess = Math.floor(Math.random() * 10) + 1;
 
 while (guess != luckyNumber) {
-  console.log(`Nope, it isn't ${guess}`)
+  console.log(`Nope, it isn't ${guess}`);
   guess = Math.floor(Math.random() * 10) + 1;
 }
 
