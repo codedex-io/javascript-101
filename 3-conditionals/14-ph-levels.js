@@ -1,7 +1,7 @@
 // pH Levels 🧪
 // Codédex
 
-const ph = 4
+const ph = 4;
 
 if (ph > 7) {
   console.log("Basic");
