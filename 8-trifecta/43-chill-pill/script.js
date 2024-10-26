@@ -2,7 +2,7 @@
 // Codédex
 
 const quoteList = [
-  "Some doors only open from the inside. Breath is a way of accessing that door.",
+  "Some doors only open from the inside. breath is a way of accessing that door.",
   "What has to be taught first, is the breath.",
   "Remember the blue sky. It may at times be obscured by clouds, but it is always there.",
   "In the midst of movement and chaos, keep stillness inside of you.",
