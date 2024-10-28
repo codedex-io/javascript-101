@@ -5,7 +5,7 @@ const firstName = "Jane";
 const favoriteColor = "Purple 💜";
 
 let currentLocation = "New York 🗽";
-let mood = "Chill";
+const mood = "Chill";
 
 console.log("My Profile: ");
 console.log(firstName);
