@@ -23,7 +23,7 @@ Welcome to The Origins III: JavaScript GitHub repo! We are super excited to have
 - [`data-types.js`](https://github.com/codedex-io/javascript-101/blob/main/2-variables/07-data-types.js)
 - [`temperature.js`](https://github.com/codedex-io/javascript-101/blob/main/2-variables/08-temperature.js)
 - [`bmi.js`](https://github.com/codedex-io/javascript-101/blob/main/2-variables/09-bmi.js)
-- [`currency.js`](https://github.com/codedex-io/javascript-101/blob/main/2-variables/10-currency.js)
+- [`planet-weight.js`](https://github.com/codedex-io/javascript-101/blob/main/2-variables/10-planet-weight.js)
 - [`hypotenuse.js`](https://github.com/codedex-io/javascript-101/blob/main/2-variables/10-hypotenuse.js) (regular solution for exercise 10)
 - [`quadratic.js`](https://github.com/codedex-io/javascript-101/blob/main/2-variables/10-quadratic.js) (bonus for exercise 10)
 
