@@ -9,7 +9,7 @@ const player = 2;
 const computer = Math.floor(Math.random() * 3);
 
 if (player === 0) {
-  if (computer == 0) {
+  if (computer === 0) {
     console.log("Draw");
   } else if (computer === 1) {
     console.log("The computer won!");
