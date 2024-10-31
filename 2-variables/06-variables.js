@@ -14,4 +14,6 @@ console.log(currentLocation);
 console.log(mood);
 
 currentLocation = "Chicago 🌬️";
+mood = "Thrilled";
 console.log(currentLocation);
+console.log(mood);
