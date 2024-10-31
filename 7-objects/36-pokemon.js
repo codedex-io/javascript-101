@@ -3,7 +3,7 @@
 
 const pokemon = {
   name: "Pikachu",
-  type: "Electric",
+  type: "Electric ⚡️",
   level: 25,
 };
 
