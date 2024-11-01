@@ -16,7 +16,7 @@ function mean(viewsArray) {
 }
 
 function median(viewsArray) {
-  const sortedStats = viewsArray.sort(function(a, b) {return a - b});
+  const sortedStats = viewsArray.sort(function(a, b) { return a - b; });
   const middleIndex = Math.floor(viewsArray.length / 2);
   
   return sortedStats[middleIndex];

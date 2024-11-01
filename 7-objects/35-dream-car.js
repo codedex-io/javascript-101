@@ -9,7 +9,7 @@ const car = {
 };
 
 if (car.used) {
-  console.log("I want a " + car.year + " " + car.model + " that is used.");
+  console.log("I want a " + car.color + " " + car.year + " " + car.model + " that is used.");
 } else {
-  console.log("I want a " + car.year + " " + car.model + " that is new.");
+  console.log("I want a " + car.color + " " + car.year + " " + car.model + " that is new.");
 }
