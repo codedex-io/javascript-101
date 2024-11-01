@@ -11,31 +11,29 @@ Welcome to The Origins III: JavaScript GitHub repo! We are super excited to have
 
 ## The Console
 
-- [`setting-up.js`](https://github.com/codedex-io/javascript-101/blob/main/1-the-console/01-setting-up.js)
-- [`the-console.js`](https://github.com/codedex-io/javascript-101/blob/main/1-the-console/02-the-console.js)
-- [`letter-tree.js`](https://github.com/codedex-io/javascript-101/blob/main/1-the-console/03-letter-tree.js)
-- [`initials.js`](https://github.com/codedex-io/javascript-101/blob/main/1-the-console/04-initials.js)
-- [`receipt.js`](https://github.com/codedex-io/javascript-101/blob/main/1-the-console/05-receipt.js)
+- [setting-up.js](./1-the-console/01-setting-up.js)
+- [the-console.js](./1-the-console/02-the-console.js)
+- [letter-tree.js](./1-the-console/03-letter-tree.js)
+- [secret-recipe.js](./1-the-console/04-secret-recipe.js)
+- [receipt.js](./1-the-console/05-receipt.js)
 
 ## Variables
 
-- [`variables.js`](https://github.com/codedex-io/javascript-101/blob/main/2-variables/06-variables.js)
-- [`data-types.js`](https://github.com/codedex-io/javascript-101/blob/main/2-variables/07-data-types.js)
-- [`temperature.js`](https://github.com/codedex-io/javascript-101/blob/main/2-variables/08-temperature.js)
-- [`bmi.js`](https://github.com/codedex-io/javascript-101/blob/main/2-variables/09-bmi.js)
-- [`currency.js`](https://github.com/codedex-io/javascript-101/blob/main/2-variables/10-currency.js)
-- [`hypotenuse.js`](https://github.com/codedex-io/javascript-101/blob/main/2-variables/10-hypotenuse.js) (regular solution for exercise 10)
-- [`quadratic.js`](https://github.com/codedex-io/javascript-101/blob/main/2-variables/10-quadratic.js) (bonus for exercise 10)
+- [variables.js](./2-variables/06-variables.js)
+- [data-types.js](./2-variables/07-data-types.js)
+- [temperature.js](./2-variables/08-temperature.js)
+- [bmi.js](./2-variables/09-bmi.js)
+- [planet-weight.js](./2-variables/10-planet-weight.js)
 
 ## Conditionals
 
-- ['coin-flip.js'](./3-conditionals/11-coin-flip.js)
-- ['good-morning.js'](./3-conditionals/12-good-morning.js)
-- ['good-afternoon.js'](./3-conditionals/13-good-afternoon.js)
-- ['ph.levels.js](./3-conditionals/14-ph-levels.js)
-- ['magic-8-ball.js'](./3-conditionals/15-magic-8-ball.js)
-- ['air-quality-index.js'](./3-conditionals/16-air-quality-index.js)
-- ['rock-paper-scissors.js'](./3-conditionals/17-rock-paper-scissors.js)
+- [coin-flip.js](./3-conditionals/11-coin-flip.js)
+- [good-morning.js](./3-conditionals/12-good-morning.js)
+- [good-afternoon.js](./3-conditionals/13-good-afternoon.js)
+- [ph.levels.js](./3-conditionals/14-ph-levels.js)
+- [magic-8-ball.js](./3-conditionals/15-magic-8-ball.js)
+- [air-quality-index.js](./3-conditionals/16-air-quality-index.js)
+- [rock-paper-scissors.js](./3-conditionals/17-rock-paper-scissors.js)
 
 ## Loops
 
@@ -72,8 +70,12 @@ Welcome to The Origins III: JavaScript GitHub repo! We are super excited to have
 
 ## Trifecta
 
-- [green-light-go.js](./8-trifecta/39-green-light-go.js)
-- [hotline-bling.js](./8-trifecta/41-hotline-bling.js)
-- [mood-ring.js](./8-trifecta/42-mood-ring.js)
-- [chill-pill.js](./8-trifecta/43-chill-pill.js)
-- [cap-that.js](./8-trifecta/44-cap-that.js)
+- [green-light-go](./8-trifecta/39-green-light-go)
+- [hotline-bling](./8-trifecta/41-hotline-bling)
+- [mood-ring](./8-trifecta/42-mood-ring)
+- [chill-pill](./8-trifecta/43-chill-pill)
+- [cap-that](./8-trifecta/44-cap-that)
+
+---
+
+Make sure to join the [community](https://www.codedex.io/community) and [Codédex Club](https://www.codedex.io/pricing) for more content! 💖

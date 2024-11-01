@@ -42,7 +42,7 @@ departTripTicket.flightTime = function() {
     flightTime = flightTime * -1;
   }
   console.log(flightTime + " hours");
-}
+};
 
 returnTripTicket.leaveTime = 24;
 returnTripTicket.arriveTime = 4;
@@ -52,7 +52,7 @@ returnTripTicket.flightTime = function() {
     flightTime = flightTime * -1;
   }
   console.log(flightTime + " hours");
-}
+};
 
 departTripTicket.flightTime();
 returnTripTicket.flightTime();
