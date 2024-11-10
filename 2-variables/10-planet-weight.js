@@ -1,4 +1,4 @@
-// Planet Weight ⚖️
+// Planet Weight 🧑‍🚀
 // Codédex
 
 const earthWeight = 210;
