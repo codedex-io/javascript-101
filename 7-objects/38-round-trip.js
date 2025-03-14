@@ -7,11 +7,21 @@ const departTripTicket = {
   to: "Augsburg, Germany",
   businessClass: false,
   upgrade() {
-    if (departTripTicket.businessClass) {
+    if (this.businessClass) {
       console.log("Your ticket is already business class!");
     } else {
-      departTripTicket.businessClass = true;
+      this.businessClass = true;
+      console.log("Ticket upgraded to business class!");
     }
+  },
+  leaveTime: 12,
+  arriveTime: 23,
+  flightTime() {
+    let flightTime = this.arriveTime - this.leaveTime;
+    if (flightTime < 0) {
+      flightTime += 24;
+    }
+    console.log(flightTime + " hours");
   }
 };
 
@@ -21,38 +31,27 @@ const returnTripTicket = {
   to: "Pittsburgh, PA",
   businessClass: true,
   upgrade() {
-    if (returnTripTicket.businessClass) {
+    if (this.businessClass) {
       console.log("Your ticket is already business class!");
     } else {
-      returnTripTicket.businessClass = true;
+      this.businessClass = true;
+      console.log("Ticket upgraded to business class!");
     }
+  },
+  leaveTime: 24,
+  arriveTime: 4,
+  flightTime() {
+    let flightTime = this.arriveTime - this.leaveTime;
+    if (flightTime < 0) {
+      flightTime += 24;
+    }
+    console.log(flightTime + " hours");
   }
 };
 
+// Upgrade and check flight times
 departTripTicket.upgrade();
 returnTripTicket.upgrade();
-
-// Bonus Section
-
-departTripTicket.leaveTime = 12;
-departTripTicket.arriveTime = 23;
-departTripTicket.flightTime = function() {
-  let flightTime = departTripTicket.arriveTime - departTripTicket.leaveTime;
-  if (flightTime < 0) {
-    flightTime = flightTime * -1;
-  }
-  console.log(flightTime + " hours");
-};
-
-returnTripTicket.leaveTime = 24;
-returnTripTicket.arriveTime = 4;
-returnTripTicket.flightTime = function() {
-  let flightTime = returnTripTicket.arriveTime - returnTripTicket.leaveTime;
-  if (flightTime < 0) {
-    flightTime = flightTime * -1;
-  }
-  console.log(flightTime + " hours");
-};
 
 departTripTicket.flightTime();
 returnTripTicket.flightTime();
