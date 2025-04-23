@@ -1,7 +1,7 @@
 // Five Boroughs 🗽
 // Codédex
 
-const myDestinations = [
+let myDestinations = [
   "🗽 Manhattan - Washington Square Park",
   "🏟️ The Bronx - Yankee Stadium",
   "🎡 Brooklyn - Coney Island",
