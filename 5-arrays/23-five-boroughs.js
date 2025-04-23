@@ -5,7 +5,7 @@ const myDestinations = [
   "🗽 Manhattan - Washington Square Park",
   "🏟️ The Bronx - Yankee Stadium",
   "🎡 Brooklyn - Coney Island",
-  "✈️ Queens - Astoria Park",
+  "🧧 Queens - Flushing",
   "🌉 Staten Island - Historic Richmond Town"
 ];
   
