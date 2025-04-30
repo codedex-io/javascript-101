@@ -6,7 +6,7 @@ const pig = {
   type: "pig",
   age: 63,
   makeSound() {
-    console.log(pig.name + " is a " + pig.age + " year old " + pig.type + " that goes oink!");
+    return pig.name + " is a " + pig.age + " year old " + pig.type + " that goes oink!";
   }
 };
 
@@ -15,7 +15,7 @@ const sheep = {
   type: "sheep",
   age: 42,
   makeSound() {
-    console.log(sheep.name + " is a " + sheep.age + " year old " + sheep.type + " that goes baaaah!");
+    return sheep.name + " is a " + sheep.age + " year old " + sheep.type + " that goes baaaah!";
   }
 };
 
@@ -24,10 +24,10 @@ const dog = {
   type: "dog",
   age: 12,
   makeSound() {
-    console.log(dog.name + " is a " + dog.age + " year old " + dog.type + " that goes woof!");
+    return dog.name + " is a " + dog.age + " year old " + dog.type + " that goes woof!";
   }
 };
 
-pig.makeSound();
-sheep.makeSound();
-dog.makeSound();
+console.log(pig.makeSound());
+console.log(sheep.makeSound());
+console.log(dog.makeSound());
