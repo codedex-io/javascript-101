@@ -13,6 +13,8 @@ if (aqi >= 0 && aqi <= 50) {
   console.log("Unhealthy");
 } else if (aqi >= 201 && aqi <= 300) {
   console.log("Very Unhealthy");
-} else {
+} else if (aqi >= 301) {
   console.log("Hazardous");
+} else {
+  console.log("Wrong Input, Try Again!");
 }
