@@ -3,7 +3,7 @@
 
 const stone = document.getElementById('stone');
 
-const randomNumber = Math.floor(Math.random() * 10) + 1;
+const randomNumber = Math.floor(Math.random() * 9) + 1;
 
 if (randomNumber === 1) {
   stone.style.backgroundColor = "red";
