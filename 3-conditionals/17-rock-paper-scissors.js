@@ -5,8 +5,14 @@
 // 1 = Paper
 // 2 = Scissors
 
-const player = 2;
+const player = 0;
 const computer = Math.floor(Math.random() * 3);
+
+const choices = ["Rock", "Paper", "Scissors"];
+
+console.log(`Player picked:      ${choices[player]}`);
+console.log(`Computer picked:    ${choices[computer]}`);
+console.log(""); 
 
 if (player === 0) {
   if (computer === 0) {
