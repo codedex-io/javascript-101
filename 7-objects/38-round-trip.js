@@ -17,10 +17,7 @@ const departTripTicket = {
   leaveTime: 12,
   arriveTime: 23,
   flightTime() {
-    let flightTime = this.arriveTime - this.leaveTime;
-    if (flightTime < 0) {
-      flightTime += 24;
-    }
+    let flightTime = Math.abs(this.arriveTime - this.leaveTime);
     console.log(flightTime + " hours");
   }
 };
@@ -41,10 +38,7 @@ const returnTripTicket = {
   leaveTime: 24,
   arriveTime: 4,
   flightTime() {
-    let flightTime = this.arriveTime - this.leaveTime;
-    if (flightTime < 0) {
-      flightTime += 24;
-    }
+    let flightTime = Math.abs(this.arriveTime - this.leaveTime);
     console.log(flightTime + " hours");
   }
 };
