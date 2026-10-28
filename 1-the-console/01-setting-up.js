@@ -1,4 +1,4 @@
-// Setting Up 🔧
+// Setting Up 🚀
 // Codédex
 
 console.log("Hello internet");
